@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Katricia Barleta -- Developer -- @katriciab
+
+# THANKS
+
+    Hammad Khalid
+    Internet people
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, Bootstrap
+    Normalize.css, jQuery, Modernizr
