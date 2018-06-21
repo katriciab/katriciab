@@ -31,6 +31,7 @@ export const Header = styled.div`
 
     ${media.tablet`
       font-size: 46px;
+      margin-bottom: 10px;
     `}
 
     span {
