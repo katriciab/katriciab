@@ -25,7 +25,11 @@ const Play = () => (
     <MiddleSection>
       <Header2>I like to play.</Header2>
       <Paragraph>
-        Once in a while, I’ll <a href="https://github.com/katriciab/home" rel="noopener noreferrer" target="_blank">code</a> on side projects, <a href="https://soundcloud.com/katriciab/tracks" rel="noopener noreferrer" target="_blank">express</a> myself through song, <a href="http://katriciab.com/bakesmith/" rel="noopener noreferrer" target="_blank">design</a> websites and <a href="http://rise-studios.ca" rel="noopener noreferrer" target="_blank">make</a> ceramic things.
+        Once in a while, I’ll <a href="https://github.com/katriciab/home" rel="noopener noreferrer" target="_blank">code</a> on side projects, {}
+        <a href="http://instagram.com/drawingfromwomen" rel="noopener noreferrer" target="_blank">draw</a> inspiring people, {}
+        <a href="https://soundcloud.com/katriciab/tracks" rel="noopener noreferrer" target="_blank">express</a> myself through song, {}
+        <a href="http://katriciab.com/bakesmith/" rel="noopener noreferrer" target="_blank">design</a> websites, {}
+        and <a href="http://rise-studios.ca" rel="noopener noreferrer" target="_blank">make</a> ceramic things.
       </Paragraph>
       <Paragraph>
         Here is one of my recent projects:
