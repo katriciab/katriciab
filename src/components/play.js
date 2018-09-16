@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import { MiddleSection, WhitespaceWrap, Paragraph } from '../styled';
+import { MiddleSection, WhitespaceWrap, Paragraph, Header2 } from '../styled';
 import media from '../media-queries';
 import RiseMobileImg from '../images/rise_mobile.png';
 import RiseMobileProducts from '../images/rise_products.png';
@@ -23,8 +23,9 @@ const RiseImages = styled.div`
 const Play = () => (
   <WhitespaceWrap style={{ justifyContent: 'center'}}>
     <MiddleSection>
+      <Header2>I like to play.</Header2>
       <Paragraph>
-        <span>I like to play</span> - once in a while, I’ll <a href="https://github.com/katriciab/home" rel="noopener noreferrer" target="_blank">code</a> on side projects, <a href="https://soundcloud.com/katriciab/tracks" rel="noopener noreferrer" target="_blank">express</a> myself through song, <a href="http://katriciab.com/bakesmith/" rel="noopener noreferrer" target="_blank">design</a> websites and <a href="http://rise-studios.ca" rel="noopener noreferrer" target="_blank">make</a> ceramic things.
+        Once in a while, I’ll <a href="https://github.com/katriciab/home" rel="noopener noreferrer" target="_blank">code</a> on side projects, <a href="https://soundcloud.com/katriciab/tracks" rel="noopener noreferrer" target="_blank">express</a> myself through song, <a href="http://katriciab.com/bakesmith/" rel="noopener noreferrer" target="_blank">design</a> websites and <a href="http://rise-studios.ca" rel="noopener noreferrer" target="_blank">make</a> ceramic things.
       </Paragraph>
       <Paragraph>
         Here is one of my recent projects:

@@ -26,6 +26,9 @@ export const WhitespaceWrap = styled.div`
 `;
 
 export const Header = styled.div`
+		font-family: grad, serif;
+		font-style: normal;
+		font-weight: 700;
     font-size: 64px;
     margin-bottom: 56px;
 
@@ -37,6 +40,7 @@ export const Header = styled.div`
     span {
         display: block;
         font-size: 42px;
+				font-weight: 400;
 
         ${media.tablet`
           font-size: 32px;
@@ -45,6 +49,9 @@ export const Header = styled.div`
 `;
 
 export const Header2 = styled.div`
+		font-family: grad, serif;
+		font-style: normal;
+		font-weight: 700;
     font-size: 32px;
     ${media.tablet`
       font-size: 24px;

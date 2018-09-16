@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import { WhitespaceWrap, LeftSection, RightSection, Paragraph, BaseLineSeparator } from '../styled';
+import { WhitespaceWrap, LeftSection, RightSection, Paragraph, Header2, BaseLineSeparator } from '../styled';
 
 const Avatars = styled.div`
   a {
@@ -27,7 +27,7 @@ const LineSeparator = BaseLineSeparator.extend`
 const Blurb = () => (
   <WhitespaceWrap style={{ position: 'relative' }}>
     <LeftSection>
-      <Paragraph><span>Follow me.</span></Paragraph>
+      <Header2 style={{ marginBottom: '10px' }}><span>Follow me.</span></Header2>
       <Avatars>
         <a href="http://instagram.com/katriciab" rel="noopener noreferrer" target="_blank"><i className="fa fa-instagram"></i></a>
         <a href="http://twitter.com/katriciab" rel="noopener noreferrer" target="_blank"><i className="fa fa-twitter"></i></a>
