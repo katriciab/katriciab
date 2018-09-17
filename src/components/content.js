@@ -21,12 +21,12 @@ const Content = () => (
       <Header2>Thoughts.</Header2>
       <Paragraph>I write small things, and longer things. Some things are better expressed with pictures.</Paragraph>
       <ThemeButton
-        text="Check out my travel blog"
+        text="Peep on my travel blog"
         onClick={() => { window.open('http://katriciab.tumblr.com/', '_blank') }}
          />
     </LeftSection>
     <RightSection>
-      <Header2>Tweets.</Header2>
+      <Header2>Tweet <a href="http://twitter.com/katriciab" rel="noopener noreferrer" target="_blank">@katriciab.</a></Header2>
       <TwitterTimeline>
         <a className="twitter-timeline" data-lang="en" data-height="400" data-chrome="nofooter,noheader" href="https://twitter.com/katriciab?ref_src=twsrc%5Etfw">Tweets by katriciab</a>
       </TwitterTimeline>

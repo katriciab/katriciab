@@ -32,7 +32,7 @@ const Blurb = () => (
         <a href="http://instagram.com/katriciab" rel="noopener noreferrer" target="_blank"><i className="fa fa-instagram"></i></a>
         <a href="http://twitter.com/katriciab" rel="noopener noreferrer" target="_blank"><i className="fa fa-twitter"></i></a>
         <a href="https://ca.linkedin.com/in/katriciab" rel="noopener noreferrer" target="_blank"><i className="fa fa-linkedin"></i></a>
-        <a href="https://github.com/katriciab/" rel="noopener noreferrer" target="_blank"><i className="fa fa-github"></i></a>
+        <a href="https://github.com/katriciab/"><i className="fa fa-github"></i></a>
       </Avatars>
     </LeftSection>
     <RightSection>

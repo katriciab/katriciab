@@ -6,7 +6,7 @@ export const ScreenHeightWrap = styled.div`
   flex-direction: row;
   width: 100%;
   height: 100vh;
-  background: ${props => (props.theme.colours.themeAccentPrimary)};
+  background: ${props => (props.color ? props.color : props.theme.colours.themeAccentPrimary)};
 
   ${media.tablet`
     flex-direction: column;

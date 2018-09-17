@@ -4,6 +4,10 @@ body, p, button {
   font-family: futura-pt, sans-serif;
 }
 
+button {
+  cursor: pointer;
+}
+
 a {
   color: #828282;
   text-decoration: none;

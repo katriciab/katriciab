@@ -4,6 +4,7 @@ import { MiddleSection, WhitespaceWrap, Paragraph, Header2 } from '../styled';
 import media from '../media-queries';
 import RiseMobileImg from '../images/rise_mobile.png';
 import RiseMobileProducts from '../images/rise_products.png';
+import ThemeButton from "./theme-button";
 
 const Wrap = styled.div`
   display: flex;
@@ -42,7 +43,13 @@ const Play = () => (
           <Paragraph>
             <span><a href="https://instagram.com/risestudios_ca" rel="noopener noreferrer" target="_blank">@risestudios_ca</a></span><br />
             Making things because it brings happiness.
+						<ThemeButton
+              style={{ marginTop: '10px' }}
+							text="Show me love"
+							onClick={() => { window.open('http://katriciab.tumblr.com/', '_blank') }}
+						/>
           </Paragraph>
+
       </Wrap>
     </MiddleSection>
   </WhitespaceWrap>
