@@ -10,6 +10,8 @@ import Links from './components/links';
 const KatApp = styled.div`
   display: flex;
   flex-direction: column;
+  width: 100vw;
+  overflow-x: hidden;
 `;
 
 class App extends Component {
