@@ -37,13 +37,13 @@ const Blurb = () => (
     </LeftSection>
     <RightSection>
       <Paragraph>
-        I’m currently building more human apps at <a href="http://helpful.com">Helpful</a> as a <b>mobile and full-stack developer</b>.
+        I’m currently building apps that give entrepreneurs superpowers at <a href="https://shopify.com">Shopify</a> as a <b>senior software developer</b>.
       </Paragraph>
       <Paragraph>
         Before that, I’ve lead and developed iOS, Android and web apps for connected cars, fitness trackers, social networks and live mobile TV. Building things is what I am good at, and have worked with leading companies like <b>Ford Motors, NBA, Survey Monkey, Bell</b> and <b>Under Armour</b>.
       </Paragraph>
       <Paragraph>
-        Proudly trained at <b>Pivotal, Blackberry</b> and <b>Queen’s University</b>.
+        Proudly trained at <b>Helpful, Pivotal Labs, Blackberry</b> and <b>Queen’s University</b>.
       </Paragraph>
     </RightSection>
     <LineSeparator />

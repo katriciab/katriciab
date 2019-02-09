@@ -82,7 +82,7 @@ class Introduction extends Component {
           <TextWrap>
             <TitleTextWrap>
               <Header>
-                Creating things.<span>Developer, designer, maker.</span>
+                Creating things.<span>Developer, maker.</span>
               </Header>
             </TitleTextWrap>
             <DescriptionTextWrap>
